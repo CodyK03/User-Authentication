@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana;
+    margin: right;
+}
+h1 {
+    text-align: center;
+    
+}
+div {
+    margin: auto;
+    width: 50%;
+}
+.firstItem {
+    padding-left: 42%;
+}
+.loginForm {
+    padding-left: 32%;
+}
+.logoutLink{
+    padding-left: 45%;
+}
